@@ -1,2 +1,3 @@
 name: Charlie Person
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
