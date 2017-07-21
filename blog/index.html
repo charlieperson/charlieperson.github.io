@@ -11,7 +11,7 @@ layout: default
         {% endfor %}
       </ul>
 			<ul class="posts">
-			  {% for post in site.hack_reactor_posts %}
+			  {% for post in site.posts %}
 			    <li class='post-list-item'><span class="date">{{ post.date | date_to_string }}</span> » <a class='post-link' href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 			  {% endfor %}
 			</ul>
