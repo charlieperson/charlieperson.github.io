@@ -54,4 +54,5 @@ knowledge about other objects. In practice, this means that methods should not c
 methods on objects that are returned from methods within the same class. The moment
 that we break this rule, we've created a dependency on an external class. The law
 only applies to objects though and not to data structures, because data structures
-expose their internals by their nature and therefore it is not a smell to a
+expose their internals by their nature and therefore it is not a smell to access
+the internal values.
