@@ -20,7 +20,7 @@ that the method does not follow the single responsibility principle and is most 
 The thought process that we must go through in order to accurately assess what we name things, can
 often lead to insights about our code and identify smells.
 
-###When naming things, keep in mind these rules of thumb:
+### When naming things, keep in mind these rules of thumb:
 
 - Names should provide clues to an author's intention.
 
