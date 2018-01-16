@@ -1,4 +1,4 @@
-html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+html body div span object iframe h1 h2 h3 h4 h5 h6 p{
 border:0;
 font:inherit;
 font-size:100%;
@@ -11,12 +11,16 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {font-family: 'Lato', helvetica, arial, sans-serif; color: #222;}
 
 .clear {clear: both;}
 
 ul {
 	list-style: none;
+}
+
+.jobTitle {
+	margin-top: 9px;
 }
 
 .checked {
@@ -42,14 +46,14 @@ p {
 }
 
 #name h1 {
-	font-size: 2.5em;
+	font-size: 2em;
 	font-weight: 700;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
-	font-size: 2em;
+	font-size: 1.5em;
 	margin-left: 2px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
