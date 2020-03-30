@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Formatting"
-date: 2017-07-28
+date: 2019-08-20
 ---
 
 If you've been a developer for any considerable amount of time, you've probably

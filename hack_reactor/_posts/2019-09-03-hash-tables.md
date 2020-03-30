@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hash tables"
-date: 2016-09-11
+date: 2019-09-03
 ---
 
 If you've ever used an object in JavaScript, you've used a hash table. Essentially,

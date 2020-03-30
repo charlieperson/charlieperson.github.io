@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Error Handling"
-date: 2017-08-11
+date: 2019-08-30
 ---
 
 ## Errors

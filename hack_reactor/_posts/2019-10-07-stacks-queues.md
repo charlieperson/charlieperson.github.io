@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stack & Queues"
-date: 2016-09-09
+date: 2019-10-07
 ---
 
 Restricted Data Structures- restrict you to it's interface.

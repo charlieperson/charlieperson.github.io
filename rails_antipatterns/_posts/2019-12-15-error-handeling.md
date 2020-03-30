@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Error handling in Ruby"
-date: 2017-07-15
+date: 2019-12-15
 ---
 
 An exception is an instance of a special type of class called Exception, or one of its

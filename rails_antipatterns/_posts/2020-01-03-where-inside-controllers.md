@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where should ActiveRecord queries go?"
-date: 2017-07-21
+date: 2020-01-03
 ---
 
 ## In our models.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instantiation patterns"
-date: 2017-03-07
+date: 2019-10-20
 ---
 The difference between an object decorator and a class is only that a class creates
 the object that it is augmenting.

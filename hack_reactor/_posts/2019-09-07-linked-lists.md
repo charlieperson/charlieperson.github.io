@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linked Lists in JavaScript"
-date: 2016-09-07
+date: 2019-09-07
 ---
 
 A linked list is a data structure that is a lot like what it sounds like. A list

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nested Resources"
-date: 2017-08-14
+date: 2020-01-14
 ---
 
 ### Routing

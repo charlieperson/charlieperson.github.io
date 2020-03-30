@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This makes an awesome blog post"
-date: 2016-09-07
+date: 2019-10-10
 ---
 Let me ask you something- What does x equal in this snippet of code?
 ```
@@ -38,4 +38,4 @@ will be enough to find out what ```this``` is referring to in our code.
 
 However, this is not always the case, and it's important to understand the other ways
 that ```this``` can be bound to our functions. There are three main ways that we can
-explicitly assign a function's reference to ```this```. 
+explicitly assign a function's reference to ```this```.

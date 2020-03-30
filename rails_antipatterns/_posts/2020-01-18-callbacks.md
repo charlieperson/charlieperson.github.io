@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rails Callbacks"
-date: 2017-08-05
+date: 2020-01-18
 ---
 
 ## What is a callback in Rails?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meaningful Names"
-date: 2017-06-30
+date: 2019-07-30
 ---
 
 As programmers, a huge part of our job consists of coming up with names for things.
