@@ -5,6 +5,12 @@ layout: default
 	<div class='row'>
 		<div class="col-md-3"></div>
 		<div class="col-md-6">
+      <h1>The Trusted Advisor</h1>
+      <ul class="posts">
+        {% for post in site.categories.the_trusted_advisors %}
+        <li class='post-list-item'><span class="date">{{ post.date | date_to_string }}</span> » <a class='post-link' href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
       <h1>Rails Anti-Patterns</h1>
       <ul class="posts">
         {% for post in site.categories.rails_antipatterns %}
