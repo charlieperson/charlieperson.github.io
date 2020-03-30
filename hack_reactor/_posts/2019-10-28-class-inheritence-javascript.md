@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Class Inheritance in JavaScript"
-date: \
+date: 2019-10-28
 ---
 
 Object oriented (OO) languages traditionally use class inheritance as a way to organize,
