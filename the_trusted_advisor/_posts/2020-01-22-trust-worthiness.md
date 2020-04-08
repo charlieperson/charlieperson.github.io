@@ -16,7 +16,13 @@ aptitude and expertise.
 David Maister, Charles Green & Robert Galford express in their book, The Trusted
 Advisor, that this can actually be boiled down to an equation. The book lays out that
 Trust Worthiness is equal to Credibility, Reliability, and Intimacy divided by
-Self Orientation. I will go into detail as to each component of this equation in
+Self Orientation.
+
+```
+Trust Worthiness = (Credibility + Reliability + Intimacy) / Self Orientation
+```
+
+I will go into detail as to each component of this equation in
 future posts, but holistically, trust worthiness is the key factor for any client/consultant
 relationship. Now, it's important to make the distinction between trust, and
 trust worthiness. Trust comes over time and has to be earned. Trust worthiness is
